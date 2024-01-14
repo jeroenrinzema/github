@@ -1,4 +1,4 @@
-name: ChatOps deploy dev
+name: ChatOps deploy staging
 
 on:
   issue_comment:
