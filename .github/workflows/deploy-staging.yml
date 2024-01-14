@@ -9,9 +9,9 @@ env:
 
 jobs:
   command:
-    name: /deploy dev
+    name: /deploy staging
     runs-on: ubuntu-latest
-    if: github.event.issue.pull_request && contains(github.event.comment.body, '/deploy dev')
+    if: github.event.issue.pull_request && contains(github.event.comment.body, '/deploy staging')
     steps:
       - name: Add reaction
         uses: actions/github-script@v4
