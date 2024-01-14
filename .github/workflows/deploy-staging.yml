@@ -5,7 +5,7 @@ on:
     types: [created]
 
 env:
-  ENVIRONMENT: dev
+  ENVIRONMENT: staging
 
 jobs:
   command:
