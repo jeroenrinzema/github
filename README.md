@@ -15,8 +15,8 @@ graph TD
     D --> F[Access Secured Data]
     E --> F
     F --> G[Profit]
-    style A fill:#34ebd8,stroke:#333,stroke-width:2px
-    style G fill:#34ebd8,stroke:#333,stroke-width:4px
+    style A stroke:#fff,stroke-width:2px
+    style G stroke:#fff,stroke-width:2px
 ```
 
 > [Markdown guide](https://www.markdownguide.org/)
