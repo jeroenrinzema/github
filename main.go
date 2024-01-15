@@ -7,5 +7,5 @@ func Speak() string {
 }
 
 func main() {
-	fmt.Println(Speak())
+	fmt.Println("speak:", Speak())
 }
