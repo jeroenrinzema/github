@@ -2,7 +2,6 @@
 
 This repository contains a few resources which might be helpful when learning more about git/Github.
 
-
 ![HACKERMAN](https://i.ytimg.com/vi/KEkrWRHCDQU/maxresdefault.jpg)
 
 ## Getting started
